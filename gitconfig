@@ -1,0 +1,8 @@
+[user]
+	name = dillon
+	email = dillon.rooney@gmail.com
+[core]
+	pager = view - 
+[color]
+	ui = false
+	status = true
